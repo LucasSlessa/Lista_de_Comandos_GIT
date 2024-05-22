@@ -1,4 +1,4 @@
-# Lista de 100 Comandos Importantes do Git
+# Lista de 100 Comandos Importantes do Git <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 ## Introdução
 Este documento fornece uma lista de 100 comandos essenciais do Git, cada um com uma breve descrição de sua função. Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte durante o desenvolvimento de software.
